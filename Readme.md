@@ -20,11 +20,14 @@ Influencair is a Belgian civic project based in Brussels
 - [Opendata Brussels governement](https://opendata.brussels.be/explore/?sort=modified)
 - [wunderground weatherdata](https://www.wunderground.com/wundermap)
 
-## Organisations
-- Irceline
-- Vito
-
 # Data interpretations
 ## Brussel
 - [Bxlairbot](http://www.bxlairbot.be/)
 
+# Organisations
+- Irceline
+- Vito
+- luftdaten
+- hackair
+- influencair
+- [Aircasting](http://aircasting.org)
