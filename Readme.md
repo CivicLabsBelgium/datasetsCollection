@@ -11,6 +11,7 @@ Luftdaten is a German civic project measuring particular matter.
 Belgian Interregional Environment Agency
 - http://geo.irceline.be/sos/static/doc/api-doc/
 - [data viewer](http://viewer.irceline.be/#map)
+- e.g.: http://www.fluggs.de/sos2/api/v1/stations/?expanded=true 
 ### [Influencair](http://influencair.be/)
 Influencair is a Belgian civic project based in Brussels
 - [map](http://irceline-luftdatenmap-bef46069.c954d1ca.svc.dockerapp.io/) combining Irceline and luftdaten
