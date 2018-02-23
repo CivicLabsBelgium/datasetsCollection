@@ -7,6 +7,7 @@ Luftdaten is a German civic project measuring particular matter.
 - [sensor](http://luftdaten.info/feinstaubsensor-bauen/)
 - [csv](https://www.madavi.de/sensor/csvfiles.php) historical data
 - [csv archive](https://archive.luftdaten.info/) historical data easier to scrape
+- [Grafana](https://luftdaten.getkotori.org/grafana/dashboard/db/luftdaten-thresholds?orgId=1&var-Location=Avenue%20Circulaire%20-%20Ringlaan,%20Uccle%20-%20Ukkel,%20R%C3%A9gion%20de%20Bruxelles-Capitale%20-%20Brussels%20Hoofdstedelijk%20Gewest,%20BE&var-Location=Passage%20du%20Nord%20-%20Noorddoorgang,%20Ville%20de%20Bruxelles%20-%20Stad%20Brussel,%20R%C3%A9gion%20de%20Bruxelles-Capitale%20-%20Brussels%20Hoofdstedelijk%20Gewest,%20BE&var-Location=Rue%20de%20Flandre%20-%20Vlaamsesteenweg,%20Ville%20de%20Bruxelles%20-%20Stad%20Brussel,%20R%C3%A9gion%20de%20Bruxelles-Capitale%20-%20Brussels%20Hoofdstedelijk%20Gewest,%20BE)
 ### [Irceline](http://www.irceline.be/)
 Belgian Interregional Environment Agency
 - http://geo.irceline.be/sos/static/doc/api-doc/
